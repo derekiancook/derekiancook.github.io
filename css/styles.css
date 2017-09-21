@@ -286,7 +286,7 @@ a#imdb-btn {
     background-size: cover;
     padding: 15px;
     overflow: hidden;
-		background-attachment: fixed;
+    background-attachment: fixed;
 }
 #lead-content {
     position: absolute;
