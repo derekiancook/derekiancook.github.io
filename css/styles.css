@@ -705,7 +705,8 @@ a#imdb-btn {
         min-height: auto;
         max-height: auto;
         padding: 100px 15px;
-				align-content: center;
+	align-content: center;
+	background-attachment: unset;
     }
 
     #lead-content h1 {
