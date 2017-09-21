@@ -1,1 +1,0 @@
---Credit to Ryan Fitzgerald for providing the personal website template.
