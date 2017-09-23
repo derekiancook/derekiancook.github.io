@@ -801,7 +801,6 @@ a#imdb-btn {
     }
 		#lead {
 			background-image: url(../images/headshot1.jpg);
-			background-attachment: fixed;
 		}
 }
 
