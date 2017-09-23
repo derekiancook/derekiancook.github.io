@@ -706,7 +706,7 @@ a#imdb-btn {
         max-height: auto;
         padding: 100px 15px;
 				align-content: center;
-				background-attachment: fixed;
+				background-attachment: unset;
     }
 
     #lead-content h1 {
@@ -800,7 +800,8 @@ a#imdb-btn {
         padding: 5px 10px
     }
 		#lead {
-				background-image: url(../images/headshot1.jpg);
+			background-image: url(../images/headshot1.jpg);
+			background-attachment: fixed;
 		}
 }
 
